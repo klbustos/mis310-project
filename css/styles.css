@@ -1,8 +1,9 @@
-h1,h2,p {
+h1,h2,h3,p {
     text-align: center;
 }
 
-.about{
+.aboutlink{
+    color: white
     text-align: center;
-    color: green;
+    background-color: teal;
 }
