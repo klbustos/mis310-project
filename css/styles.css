@@ -2,23 +2,23 @@ h1,h2,h3,p {
     text-align: center;
 }
 
-.aboutandvideo {
+#aboutandvideo {
     text-align: center;
     background-color: teal;
 }
 
-.titlecaption {
+#titlecaption {
     text-align: center;
     color: white;
     background-color: teal;
 }
 
-.homeimg {
-    height: 300px;
-    width: auto 
+#homeimg {
+    height: 200;
+    width: 100% 
 }
 
-.video {
+#video {
     width:560px; 
     height:315px;
 }
