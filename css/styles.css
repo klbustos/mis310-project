@@ -1,21 +1,39 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+    background-color: black;
+}
+
+#navigation-bar {
+    background-color: white;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+
 h1,h2,h3,p {
     text-align: center;
+    color: white;
 }
 
 #aboutandvideo {
     text-align: center;
-    background-color: teal;
+    background-color: navy;
+    border: 2px solid black;
+    padding: 20px;
+    color:white;
 }
 
 #titlecaption {
     text-align: center;
     color: white;
-    background-color: teal;
+
 }
 
 #homeimg {
-    height: 200;
-    width: 100% 
+    height: 100;
+    width: 100%;
+    object-fit: cover;
 }
 
 #video {
